@@ -1,0 +1,131 @@
+ .taskbar {
+     padding: 10px;
+     /* background-color: #0c0b0c96; */
+     /* border: 3px solid black; */
+     margin-top: -18px;
+
+ }
+
+ .taskbar div a {
+     background-color: #0a0a0aad;
+     padding-bottom: 10px;
+     color: white;
+     padding-top: 10px;
+     text-align: center;
+     width: 16.66%;
+     float: left;
+     text-decoration: none;
+
+ }
+
+ div a:hover {
+     color: red;
+
+ }
+
+ .clear {
+     clear: both;
+ }
+
+ div.imges1 {
+     background-image: url("../062613231a04bcea7bdbe83a8ad1c63c.jpg");
+     margin-top: -70px;
+     padding: 201px;
+     text-align: center;
+ }
+
+ span figure img {
+     border: 3px solid;
+
+ }
+
+ nav ul span {
+     color: brown;
+     padding: 10px 40px;
+     margin: 10px;
+     display: inline-block;
+     border-radius: 20px;
+     background-color: silver;
+     text-decoration: none;
+     border: solid 3px black
+ }
+
+
+ .imgs {
+     color: black;
+     /* background-position: center center; */
+     padding: 38px;
+     margin: 10px;
+     display: inline-block;
+     margin-top: -223px;
+ }
+
+ .imggs {
+     color: black;
+     padding: 38px;
+     margin: 10px;
+     display: inline-block;
+     margin-top: -90px;
+     /* border: solid 3px black; */
+
+ }
+
+ .-imgss {
+     background-color: white;
+     padding: 10px;
+     margin: 10px;
+     color: black;
+     border: solid 3px black;
+ }
+
+ .assign-1-shape-1 {
+     background-color: rgb(137, 43, 226);
+     padding: 10px;
+     margin: auto;
+     width: 500px;
+
+
+
+ }
+
+ .assign-1-shape-2 {
+     background-color: rgba(137, 43, 226, 0.524);
+     padding: 10px;
+     margin: auto;
+     width: 500px;
+
+
+
+ }
+
+ .assign-1-shape-3 {
+     background-color: rgba(137, 43, 226, 0.179);
+     padding: 10px;
+     margin: auto;
+     width: 500px;
+
+
+
+ }
+
+ .-imgs {
+     background-color: rgba(210, 218, 229, 0.363);
+ }
+
+ .towhtml {
+     padding: 10px;
+     margin: 10px;
+     color: black;
+     background-color: brown;
+     border-radius: 4px;
+     display: inline-block;
+     text-decoration: none;
+ }
+
+ body {
+     background-color: white background;
+ }
+
+ a:hover {
+     color: blue;
+ }
